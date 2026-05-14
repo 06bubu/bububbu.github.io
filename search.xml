@@ -1818,7 +1818,7 @@ gls,grsg_{\text{ls}},g_{\text{rs}}gls​,grs​：因为操作是并行的，我
 一些基本约定：
 
 本文章默认字符串下标从 111 开始。
-我们用打字机字体表示字符串的内容，如：s=wjyppm1403s=\texttt{wjyppm1403}s=wjyppm1403。
+我们用打字机字体表示字符串的内容，如：s=bububbu1403s=\texttt{bububbu1403}s=bububbu1403。
 拼接：s+ts+ts+t 表示将 ttt 拼接 sss 后。
 字符集：即构成字符串中字符的集合。
 空串：不含任何字符的字符串称为空串。
@@ -5619,7 +5619,7 @@ ARC084B Small Multiple
 一些基本约定：
 
 本文章默认字符串下表从 111 开始。
-我们用打字机字体表示字符串的内容，如：s=wjyppm1403s=\texttt{wjyppm1403}s=wjyppm1403。
+我们用打字机字体表示字符串的内容，如：s=bububbu1403s=\texttt{bububbu1403}s=bububbu1403。
 拼接：s+ts+ts+t 表示将 ttt 拼接 sss 后。
 字符集：即构成字符串中字符的集合。
 空串：不含任何字符的字符串称为空串。
@@ -6039,7 +6039,7 @@ LostKeyToReach 的 P7409 题解
 罗勇军的算法竞赛书
 算法竞赛进阶指南
 chenly8128 的 P5028 题解
-wjyppm1403的 P7361 题解
+bububbu1403的 P7361 题解
 STARSczy树上后缀数组题解
 
 ]]></content>
